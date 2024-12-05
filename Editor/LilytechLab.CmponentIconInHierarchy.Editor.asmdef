@@ -1,0 +1,14 @@
+{
+    "name": "LilytechLab.ComponentIconInHierarchy.Editor",
+    "rootNamespace": "LilytechLab.ComponentIconInHierarchy.Editor",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
