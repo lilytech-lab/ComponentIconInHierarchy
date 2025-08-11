@@ -1,6 +1,6 @@
 {
   "name": "com.lilytech-lab.component-icon-in-hierarchy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "ComponentIconInHierarchy",
   "description": "An editor application that displays component icons to the hierarchy window.\n\r\nAlso, this app tells a game object has a missing component or a component has a missing field by following means:\r\n- displaying the warning icon to the hierarchy window \r\n- putting error messages on the console window",
   "unity": "2020.3",
