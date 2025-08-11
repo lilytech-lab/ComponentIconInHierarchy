@@ -1,5 +1,8 @@
 # Component Icon In Hierarchy
 
+[![openupm](https://img.shields.io/npm/v/com.lilytech-lab.component-icon-in-hierarchy?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.lilytech-lab.component-icon-in-hierarchy/)
+  [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-❤️-ff69b4)](https://github.com/sponsors/lilytech-lab)  
+
 [日本語版ReadMeはこちら](README-ja.md)
 
 An Unity editor application that helps following requests:
@@ -107,10 +110,13 @@ When you find some improvements, creating a pull request would be a great help.
 
 ## 🏢 Author Info
 
-Lilytech Lab, Inc.  
+Lilytech Lab Ltd.  
+https://www.lilytech-lab.com/  
 [https://github.com/lilytech-lab](https://github.com/lilytech-lab)
 
 A small IT engineering company in Japan.
+
+If you find this project helpful, I would greatly appreciate your support [here](https://github.com/sponsors/lilytech-lab).
 
 ## 📄 License
 

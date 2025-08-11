@@ -1,5 +1,7 @@
 # Component Icon In Hierarchy
 
+[![openupm](https://img.shields.io/npm/v/com.lilytech-lab.component-icon-in-hierarchy?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.lilytech-lab.component-icon-in-hierarchy/)  [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-❤️-ff69b4)](https://github.com/sponsors/lilytech-lab)  
+
 [README in English](README.md)
 
 下記の要望を満たすためのUnity Editor拡張です。
@@ -109,9 +111,12 @@ openupm add com.lilytech-lab.component-icon-in-hierarchy
 ## 🏢 Author Info
 
 有限会社リリテックラボ  
+https://www.lilytech-lab.com/  
 [https://github.com/lilytech-lab](https://github.com/lilytech-lab)
 
 大阪で小規模なITエンジニアリングを行っています。
+
+もしお役に立てたなら [こちら](https://github.com/sponsors/lilytech-lab) からサポートいただけると大変喜びます。
 
 ## 📄 License
 
